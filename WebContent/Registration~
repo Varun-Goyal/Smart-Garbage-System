@@ -1,0 +1,23 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Registration</title>
+
+
+
+<link rel="stylesheet" type="text/css" href="css/abc.css" />
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="http://www.modernizr.com/downloads/modernizr-latest.js"></script>
+<script type="text/javascript" src="js/placeholder.js"></script>
+        
+</head>
+<body>
+<form id="slick-login">
+
+Registration Successful<br/><br/>
+
+<a href = "Login.jsp"> Login</a>
+
+</form>
+</body>
+</html>
