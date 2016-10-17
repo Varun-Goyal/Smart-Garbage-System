@@ -1,5 +1,7 @@
 package splash;
 
+/* Developed by Varun Goyal (Student Id: 010736375) */
+
 public class GarbageInfo {
 
 	
